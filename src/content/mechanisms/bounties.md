@@ -7,7 +7,9 @@ tags:
   - task-based
   - execution
   - open
-lastUpdated: '2026-02-25'
+  - verified-funding
+  - transparent-payouts
+lastUpdated: '2026-10-23'
 relatedMechanisms:
 
 relatedApps: []
@@ -28,6 +30,7 @@ Bounties create a direct link between defined work and compensation.
 3. **Contributors claim and execute** — one or more contributors pick up the work and deliver results
 4. **Review and accept** — a reviewer evaluates the submission against acceptance criteria
 5. **Payment releases** — upon acceptance, the reward is released (optionally via smart contract escrow for trustless payment)
+6. **Record the contribution** — Completed bounties can contribute to a verified work history, helping funders assess contributor reliability and enabling contributors to demonstrate their experience.
 
 ## Advantages
 
@@ -35,6 +38,8 @@ Bounties create a direct link between defined work and compensation.
 - Creates execution-focused incentives with clear expectations
 - Attracts talent through accessible, low-commitment entry points
 - Distributes work across decentralized networks efficiently
+- Measurable deliverables and greater accountability.
+- Better budget visibility through verified funding.
 
 ## Limitations
 
